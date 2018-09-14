@@ -13,4 +13,7 @@ To run the demo please launch provided Demo script.
 
 You can find another simulation video which was created by this repository
 
-https://youtu.be/ImqIt8QH0Uo
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/ImqIt8QH0Uo)
+
+
+
