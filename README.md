@@ -4,4 +4,12 @@ Since CMOS cameras cannot read all pixels illumination at the instant time, espe
 
 In that projects, we represented very brief Matlab simulation of this effect during certain propeller turns at the fixed certain round per minute. Within provided demo, you can adjust speed of propeller, fps of simulated camera, number of frame of simulation. We provided one propeller image but you can create your own propeller image and simulate it as well.
 
+
+<p align="center">
+  <img src="Output/1.jpg" width="350"/>  
+  <img src="Output/2.jpg" width="350"/>  
+  <img src="Output/3.jpg" width="350"/> 
+</p>
+
+
 Rolling shutter effect simulation with Matlab
