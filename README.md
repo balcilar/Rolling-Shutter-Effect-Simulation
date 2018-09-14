@@ -7,8 +7,7 @@ In that projects, we represented very brief Matlab simulation of this effect dur
 
 <p align="center">
   <img src="Output/1.jpg" width="350"/>  
-  <img src="Output/2.jpg" width="350"/>  
-  <img src="Output/3.jpg" width="350"/> 
+  <img src="Output/2.jpg" width="350"/>    
 </p>
 
 
